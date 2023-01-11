@@ -38,9 +38,9 @@
           <div class="mb-3 p-3">
             <a href="index.php">вернутся на Главную</a>
           </div>
-</div>
-      </form>
-    </div>
+        </form>
+      </div>
+    </div>  
   </main>
 
   <footer>
